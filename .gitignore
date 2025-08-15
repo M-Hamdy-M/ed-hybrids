@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch / TensorFlow / ML cache
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.onnx
+
+# Data / Datasets
+data/
+datasets/
+UCIdata_Corrected/
+
+# Logs / debug
+*.log
+logs/
+wandb/
+mlruns/
+
+# Compiled files / Caches
+*.out
+*.o
+*.obj
+*.dll
+*.a
+*.lib
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
